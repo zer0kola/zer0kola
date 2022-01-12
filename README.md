@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zer0kola&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zer0kola&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **zer0kola/zer0kola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
