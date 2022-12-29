@@ -5,5 +5,5 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=zer0kola)](https://solved.ac/zer0kola/) Java
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=zer0kola321)](https://solved.ac/zer0kola321/) Python
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=zer0kola321)](https://solved.ac/zer0kola321/) Python -->
 
