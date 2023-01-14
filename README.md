@@ -1,7 +1,7 @@
 # 🐵 zer0kola
 ---
 
-|![zer0kola's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0kola&show_icons=true&theme=dark) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zer0kola&layout=compact)](https://github.com/anuraghazra/github-readme-stats)| 
+|![zer0kola's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0kola&show_icons=true&theme=dark) | [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zer0kola)](https://github.com/anuraghazra/github-readme-stats)| 
 | ------------- | ------------- |
 
 ## 🙋‍♂️ Personal Info
