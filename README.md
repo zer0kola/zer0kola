@@ -7,7 +7,7 @@
 
 
 
-## 🙋‍♂️ Personal Info
+##  Personal Info
 - 정영호
 - 한양대학교 정보시스템학과 18
 - zer0kola321@gmail.com
