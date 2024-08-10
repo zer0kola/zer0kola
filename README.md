@@ -4,7 +4,6 @@
 ![zer0kola's GitHub stats](https://github-readme-stats.vercel.app/api?username=zer0kola&theme=dark&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zer0kola&layout=compact&theme=dark&langs_count=4)
-
 ![zer0kola's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zer0kola&theme=dark&layout=compact&langs_count=4)
 
 
