@@ -7,7 +7,6 @@
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=zer0kola&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true"  />
   <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zer0kola&layout=compact&theme=transparent&hide_border=true&hide=ejs" />
 </div>
-  <img align="center" style="height:120px" src="https://github-readme-stats.vercel.app/api/wakatime?username=zer0kola&theme=transparent&layout=compact&langs_count=4&hide_title=true&hide_border=true" />
 
 
 <br />
